@@ -1,29 +1,192 @@
-## Top Crypto Influencers of 2024 on X with Subscriptions
-
-| #  | Influencer            | Twitter Handle                                      | Followers | Subscription Price | Notes                                        |
-|----|-----------------------|-----------------------------------------------------|-----------|--------------------|----------------------------------------------|
-| 1  | CryptXL Trading       | [@CryptXL_Trading](https://twitter.com/CryptXL_Trading) | 1K+       | Free               | Offers insights and tips on crypto trends, focusing on Bitcoin and Ethereum. |
-| 2  | Loomdart              | [@loomdart](https://twitter.com/loomdart)           | 130K+     | $1.00              | Provides affordable insights into crypto markets.     |
-| 3  | Spectator Index       | [@spectatorindex](https://twitter.com/spectatorindex)| 1.2M+    | $4.00              | Offers broad financial and crypto market insights.  |
-| 4  | Trader_J              | [@Trader_J](https://twitter.com/Trader_J)           | 45K+      | $4.00              | Focuses on trading tips and market analysis.   |
-| 5  | CryptoWendyO          | [@CryptoWendyO](https://twitter.com/CryptoWendyO)   | 185K+     | $4.00              | Provides exclusive trading content and market updates.|
-| 6  | Crypto Recruitr       | [@CryptoRecruitr](https://twitter.com/CryptoRecruitr)| 90K+     | $4.00              | Offers trading signals and educational content.     |
-| 7  | Crypto Dalai          | [@CryptoDalai](https://twitter.com/CryptoDalai)     | 45K+      | $5.00              | Shares insights and educational content on crypto.  |
-| 8  | Lady of Crypto        | [@LadyofCrypto1](https://twitter.com/LadyofCrypto1) | 112K+     | $5.00              | Provides insights on emerging crypto trends.         |
-| 9  | Zoran Kole            | [@ZoranKole1](https://twitter.com/ZoranKole1)       | 151K+     | $5.99              | Offers detailed market analysis and strategies.     |
-| 10 | CryptoKaleo           | [@CryptoKaleo](https://twitter.com/CryptoKaleo)     | 561K+     | $5.99              | Known for accurate market predictions and analysis.    |
-| 11 | TraderSZ              | [@trader1sz](https://twitter.com/trader1sz)         | 250K+     | $7.00              | Provides technical analysis and exclusive insights.   |
-| 12 | BitcoinLFG            | [@BitcoinLFG](https://twitter.com/BitcoinLFG)       | 73K+      | $7.00              | Shares insights on Bitcoin trends and analysis.       |
-| 13 | Anthony Pompliano     | [@APompliano](https://twitter.com/APompliano)       | 1.6M+     | $7.00              | Offers pro-Bitcoin commentary and insights.           |
-| 14 | Altcoin Daily         | [@AltcoinDailyio](https://twitter.com/AltcoinDailyio)| 1.5M+   | $7.00              | Provides daily updates on altcoins and crypto markets.|
-| 15 | Satoshi Flipper       | [@SatoshiFlipper](https://twitter.com/SatoshiFlipper)| 295K+   | $7.00              | Focuses on trading strategies and market insights.    |
-| 16 | BitBoy Crypto         | [@Bitboy_Crypto](https://twitter.com/Bitboy_Crypto) | 1.3M+     | $7.00              | Offers comprehensive crypto-related content.        |
-| 17 | Brian Armstrong       | [@brian_armstrong](https://twitter.com/brian_armstrong) | 1.3M+ | $7.00              | Provides insights on crypto trends from Coinbase's CEO.|
-| 18 | cryptosR_Us           | [@cryptosrus](https://twitter.com/cryptosrus)       | 209K+     | $7.00              | Provides daily updates and insights on the crypto market. |
-| 19 | Justin Sun            | [@justinsuntron](https://twitter.com/justinsuntron) | 3.5M+     | $12.00             | Offers insights into blockchain innovations and trends.|
-| 20 | Roman Trading         | [@roman_trading](https://twitter.com/roman_trading) | 43K+      | $12.49             | Provides in-depth trading strategies and market updates.|
-| 21 | WatcherGuru           | [@WatcherGuru](https://twitter.com/WatcherGuru)     | 1.3M+     | $14.00             | Offers timely crypto news and analysis.             |
-| 22 | Martini Guy YT        | [@MartiniGuyYT](https://twitter.com/MartiniGuyYT)   | 133K+     | $14.00             | Offers educational content on crypto trading and investments. |
-| 23 | Willy Woo             | [@woonomic](https://twitter.com/woonomic)           | 1M+       | $17.00             | Specializes in on-chain and NVT ratio analysis.    |
-| 24 | Miles Deutscher       | [@milesdeutscher](https://twitter.com/milesdeutscher)| 181K+   | $25.00             | Offers in-depth analysis of crypto trends and insights.|
-| 25 | Eliz                  | [@eliz883](https://twitter.com/eliz883)             | 37K+      | $25.00             | Provides market analysis and trading strategies.   |
+<table>
+  <tr>
+    <th>#</th>
+    <th>Influencer</th>
+    <th>Twitter Handle</th>
+    <th>Followers</th>
+    <th>Subscription Price</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>CryptXL Trading</td>
+    <td><a href="https://twitter.com/CryptXL_Trading">@CryptXL_Trading</a></td>
+    <td>1K+</td>
+    <td>Free</td>
+    <td>Offers insights and tips on crypto trends, focusing on Bitcoin and Ethereum.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Loomdart</td>
+    <td><a href="https://twitter.com/loomdart">@loomdart</a></td>
+    <td>130K+</td>
+    <td>$1.00</td>
+    <td>Provides affordable insights into crypto markets.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Spectator Index</td>
+    <td><a href="https://twitter.com/spectatorindex">@spectatorindex</a></td>
+    <td>1.2M+</td>
+    <td>$4.00</td>
+    <td>Offers broad financial and crypto market insights.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Trader_J</td>
+    <td><a href="https://twitter.com/Trader_J">@Trader_J</a></td>
+    <td>45K+</td>
+    <td>$4.00</td>
+    <td>Focuses on trading tips and market analysis.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>CryptoWendyO</td>
+    <td><a href="https://twitter.com/CryptoWendyO">@CryptoWendyO</a></td>
+    <td>185K+</td>
+    <td>$4.00</td>
+    <td>Provides exclusive trading content and market updates.</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Crypto Recruitr</td>
+    <td><a href="https://twitter.com/CryptoRecruitr">@CryptoRecruitr</a></td>
+    <td>90K+</td>
+    <td>$4.00</td>
+    <td>Offers trading signals and educational content.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Crypto Dalai</td>
+    <td><a href="https://twitter.com/CryptoDalai">@CryptoDalai</a></td>
+    <td>45K+</td>
+    <td>$5.00</td>
+    <td>Shares insights and educational content on crypto.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Lady of Crypto</td>
+    <td><a href="https://twitter.com/LadyofCrypto1">@LadyofCrypto1</a></td>
+    <td>112K+</td>
+    <td>$5.00</td>
+    <td>Provides insights on emerging crypto trends.</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Zoran Kole</td>
+    <td><a href="https://twitter.com/ZoranKole1">@ZoranKole1</a></td>
+    <td>151K+</td>
+    <td>$5.99</td>
+    <td>Offers detailed market analysis and strategies.</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>CryptoKaleo</td>
+    <td><a href="https://twitter.com/CryptoKaleo">@CryptoKaleo</a></td>
+    <td>561K+</td>
+    <td>$5.99</td>
+    <td>Known for accurate market predictions and analysis.</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>TraderSZ</td>
+    <td><a href="https://twitter.com/trader1sz">@trader1sz</a></td>
+    <td>250K+</td>
+    <td>$7.00</td>
+    <td>Provides technical analysis and exclusive insights.</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>BitcoinLFG</td>
+    <td><a href="https://twitter.com/BitcoinLFG">@BitcoinLFG</a></td>
+    <td>73K+</td>
+    <td>$7.00</td>
+    <td>Shares insights on Bitcoin trends and analysis.</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Anthony Pompliano</td>
+    <td><a href="https://twitter.com/APompliano">@APompliano</a></td>
+    <td>1.6M+</td>
+    <td>$7.00</td>
+    <td>Offers pro-Bitcoin commentary and insights.</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Altcoin Daily</td>
+    <td><a href="https://twitter.com/AltcoinDailyio">@AltcoinDailyio</a></td>
+    <td>1.5M+</td>
+    <td>$7.00</td>
+    <td>Provides daily updates on altcoins and crypto markets.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Satoshi Flipper</td>
+    <td><a href="https://twitter.com/SatoshiFlipper">@SatoshiFlipper</a></td>
+    <td>295K+</td>
+    <td>$7.00</td>
+    <td>Focuses on trading strategies and market insights.</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>BitBoy Crypto</td>
+    <td><a href="https://twitter.com/Bitboy_Crypto">@Bitboy_Crypto</a></td>
+    <td>1.3M+</td>
+    <td>$7.00</td>
+    <td>Offers comprehensive crypto-related content.</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Brian Armstrong</td>
+    <td><a href="https://twitter.com/brian_armstrong">@brian_armstrong</a></td>
+    <td>1.3M+</td>
+    <td>$7.00</td>
+    <td>Provides insights on crypto trends from Coinbase's CEO.</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>cryptosR_Us</td>
+    <td><a href="https://twitter.com/cryptosrus">@cryptosrus</a></td>
+    <td>209K+</td>
+    <td>$7.00</td>
+    <td>Provides daily updates and insights on the crypto market.</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Justin Sun</td>
+    <td><a href="https://twitter.com/justinsuntron">@justinsuntron</a></td>
+    <td>3.5M+</td>
+    <td>$12.00</td>
+    <td>Offers insights into blockchain innovations and trends.</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Roman Trading</td>
+    <td><a href="https://twitter.com/roman_trading">@roman_trading</a></td>
+    <td>43K+</td>
+    <td>$12.49</td>
+    <td>Provides in-depth trading strategies and market updates.</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>WatcherGuru</td>
+    <td><a href="https://twitter.com/WatcherGuru">@WatcherGuru</a></td>
+    <td>1.3M+</td>
+    <td>$14.00</td>
+    <td>Offers timely crypto news and analysis.</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Martini Guy YT</td>
+    <td><a href="https://twitter.com/MartiniGuyYT">@MartiniGuyYT</a></td>
+    <td>133K+</td>
+    <td>$14.00</td>
+    <td>Offers educational content on crypto trading and investments.</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Willy Woo</td>
+    <td><a href="https://twitter.com/woonomic">@woonomic</a></td>
+    <td>1M+</td>
+    <td>$17.00</td>
+    <td>Specializes in on-chain and NVT ratio analysis.</
